@@ -1,13 +1,20 @@
 main{
-   border-color:grey;
-   border-width: 80px; 
+    border-left-color: 150px solid rgb(248, 241, 241);
+    border-right-color: 150px solid rgb(248, 241, 241);
+    border-top-color: 40px solid rgb(248, 241, 241);
+    padding-left: 10px;
+    padding-right: 100px;
 }
+
 .botton1{
-    background-color: rgb(45, 183, 230);
+    border: 2px solid  rgb(45, 183, 230);
 }
 .botton2{
     border:10px grey;
 }
 .titolo{
     font-size: 40px ;
+}
+.lista1{
+    list-style-type:  ;
 }
